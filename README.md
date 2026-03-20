@@ -11,7 +11,7 @@
 ## Live Dashboard
 > **[Click here to view the interactive dashboard on Tableau Public]
 
-*Replace the link above with your actual Tableau Public URL after publishing.*
+
 
 ---
 

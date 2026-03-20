@@ -61,7 +61,7 @@ A full end-to-end BI pipeline built on the Superstore Sales dataset — **9,994 
 - **Python / Pandas** — Data cleaning, date engineering, CLV calculation
 - **NumPy** — Profit margin computation
 - **SQL (SQLite-style)** — KPI queries: MoM growth, segment analysis, top customer ranking
-- **Tableau Public** — Interactive dashboard, published live with a shareable URL
+  
 
 ---
 

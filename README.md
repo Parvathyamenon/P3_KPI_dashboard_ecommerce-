@@ -116,12 +116,6 @@ The `kpi_queries.sql` file contains four analytical queries:
 
 ---
 
-## Why Tableau Public?
-
-Tableau is used at Google, Stripe, Salesforce, and most non-Microsoft product companies. Unlike Power BI, Tableau Public lets you **publish a live, interactive dashboard with a public URL** — paste that URL directly into a job application and the interviewer can click and interact with it. No screenshot needed.
-
----
-
 ## About
 
 Built as part of a data analyst portfolio project. Demonstrates end-to-end BI skills: data engineering, SQL analysis, and executive dashboard design.

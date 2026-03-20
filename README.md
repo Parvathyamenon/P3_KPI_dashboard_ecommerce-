@@ -10,7 +10,7 @@
 
 ## Live Dashboard
  <p align="center">
-  <img src="output/superstore_dashboard.twbx" width="900" alt="Product Analytics Dashboard">
+  <img src="output/superstore_dashboard.png" width="900" alt="Product Analytics Dashboard">
 </p>
 
 

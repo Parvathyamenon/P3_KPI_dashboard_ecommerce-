@@ -9,7 +9,9 @@
 ---
 
 ## Live Dashboard
-> **[Click here to view the interactive dashboard on Tableau Public]
+ <p align="center">
+  <img src="output/superstore_dashboard.twbx" width="900" alt="Product Analytics Dashboard">
+</p>
 
 
 

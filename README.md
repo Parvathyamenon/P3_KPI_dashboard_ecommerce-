@@ -86,7 +86,7 @@ ecommerce-kpi-dashboard/
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/YOUR_USERNAME/ecommerce-kpi-dashboard
+git clone https://github.com/Parvathyamenon/ecommerce-kpi-dashboard
 cd ecommerce-kpi-dashboard
 
 # 2. Install dependencies
